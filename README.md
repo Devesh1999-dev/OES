@@ -192,7 +192,20 @@ Result auto-calculation and display
 
    ![Screenshot 2024-12-14 153412](https://github.com/user-attachments/assets/5181275c-fef9-436c-a346-727e7051b598)
 
-7. 
+### 7. This is User page.
+   
+   ![Screenshot 2025-06-08 132041](https://github.com/user-attachments/assets/18431e43-65b5-4c79-94ab-3098016c3ebd)
+   
+### 8. This is exam page where students can select the exam(Subject) and start the exam.
+ 
+   ![Screenshot 2025-06-08 132324](https://github.com/user-attachments/assets/05b39abc-10b0-4623-a753-8e2b2cd1d4fe)
+
+### 9. This is result page where students can view their result ststus.
+
+   ![Screenshot 2025-06-08 132347](https://github.com/user-attachments/assets/0e9cad40-930a-4ed1-978b-a7ae45e18ba2)
+
+
+
 
 
 
