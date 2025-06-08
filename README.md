@@ -206,6 +206,11 @@ Result auto-calculation and display
 
 
 
+### If you face any trouble while using the app or you have any suggestion or feedback feel free to contact me at deveshkumarsharma1999@gmail.com.
+ 
+
+
+
 
 
 
