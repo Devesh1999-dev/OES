@@ -168,22 +168,28 @@ Result auto-calculation and display
 ### after successfull installtion of the libraries, run FRAS-GUI-Version.py
 
 # How to use the app (User Guide)
-1. This is Home page . You can login by clicking the login button.
+### 1. This is Home page . You can login by clicking the login button.
+
    ![Screenshot 2024-12-14 152431](https://github.com/user-attachments/assets/98b01364-0869-4de1-adf6-660e66ccc1c8)
 
-2. This is Login page.
+### 2. This is Login page.
+
    ![Screenshot 2024-12-14 152939](https://github.com/user-attachments/assets/25d2fa83-56cb-4d33-a4e3-5aa8cb1fd659)
 
-3. This is an Admin page where admin can create the courses ,design the questions and manage the accounts.
+### 3. This is an Admin page where admin can create the courses ,design the questions and manage the accounts.
+
    ![Screenshot 2024-12-14 153107](https://github.com/user-attachments/assets/a0546776-a4aa-4a46-af09-87ab12e3dd7f)
 
-4. Here admin can view the courses and manage the courses.
+### 4. Here admin can view the courses and manage the courses.
+
    ![Screenshot 2024-12-14 153201](https://github.com/user-attachments/assets/8cb25fa2-3a6c-4f11-971d-d9bc9c9d07c1)
 
-5. Here admin can select the courses and setup the questions and their answers.
+### 5. Here admin can select the courses and setup the questions and their answers.
+
    ![Screenshot 2024-12-14 153301](https://github.com/user-attachments/assets/501fbe19-aea1-4d9c-bd4d-591549b3db24)
 
-6. Here admin can view the accounts and manage them.
+### 6. Here admin can view the accounts and manage them.
+
    ![Screenshot 2024-12-14 153412](https://github.com/user-attachments/assets/5181275c-fef9-436c-a346-727e7051b598)
 
 7. 
